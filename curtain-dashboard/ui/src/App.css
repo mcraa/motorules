@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+
+.bottom-bar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(42, 80, 111) !important;
+}
+
+.bottom-bar-label {
+  color: gray
+}
+
+.bottom-bar .Mui-selected {
+  color: lightgrey !important
+}
+
+button.add-fab {
+  position: absolute !important;
+  bottom: 66px;
+  right: 15px;
+}

@@ -1,0 +1,10 @@
+.DS_Store
+dist
+meta.json
+landr-dist
+node_modules
+*.traineddata
+proxy
+__pycache__
+database.sqlite
+.vscode
