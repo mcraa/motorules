@@ -1,0 +1,3 @@
+[submodule "sensor"]
+	path = sensor
+	url = git@github.com:balenalabs/balena-sense.git
